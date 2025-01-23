@@ -1,4 +1,7 @@
 #provide{
-    background-color: whitesmoke;
+    background-color: purple;
     text-align: center;
+}
+.big{
+    background-color: aqua;
 }
