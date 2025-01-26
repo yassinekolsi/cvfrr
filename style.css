@@ -13,7 +13,7 @@
     height: 400px;
 }
 .form-check-input:checked {
-    background-color: #28a745; /* Green */
+    background-color: green; /* Green */
     border-color: #28a745; /* Green border */
 }
 .form-check-input {
