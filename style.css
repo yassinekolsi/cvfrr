@@ -2,16 +2,26 @@
     background-color: purple;
     text-align: center;
 }
-.big{
-    background-color: aqua;
-    border: 2px solid black;  /* Border around text */
-            display: inline-block;   /* Keeps it around the text only */
-            padding: 5px;
+.custom-google-font{
+    font-family:'Roboto',sans-serif;
 }
 .hello{
     font-size: medium;
 }
 .my-custom-row{
-    background-color: bisque;
+    background-color: aliceblue;
     height: 400px;
+}
+.form-check-input:checked {
+    background-color: #28a745; /* Green */
+    border-color: #28a745; /* Green border */
+}
+.form-check-input {
+    border:none; /* Light grey border */
+}
+.img{
+    background:none;
+}
+.hama{
+    
 }
